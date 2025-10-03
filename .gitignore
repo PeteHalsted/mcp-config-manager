@@ -52,6 +52,7 @@ htmlcov/
 
 # Logs
 *.log
+.gitignore
 
 # Config files (for testing)
 test_configs/
@@ -64,6 +65,7 @@ disabled_servers.json
 # Backup files
 claude-backup.json
 gemini-backup.json
+backups/
 
 # Packaging
 *.dmg
